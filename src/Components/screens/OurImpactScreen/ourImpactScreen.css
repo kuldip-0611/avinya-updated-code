@@ -1,0 +1,53 @@
+.our-impact-title {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: "Playfair Display", serif !important;
+}
+
+.our-impact-description {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.custom-radius img {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+@media (max-width: 992px) {
+    .our-impact-title {
+        font-size: 36px;
+    }
+
+    .our-impact-description {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cutom-impact-right{
+        margin-top: 16px !important;
+    }
+    .our-impact-title {
+        font-size: 32px;
+    }
+
+    .our-impact-description {
+        font-size: 16px;
+    }
+
+    .custom-impact-image {
+        height: 80%;
+    }
+}
+
+@media (max-width: 576px) {
+    .our-impact-title {
+        font-size: 28px;
+    }
+
+    .our-impact-description {
+        font-size: 14px;
+    }
+}

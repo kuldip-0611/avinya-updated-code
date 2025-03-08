@@ -1,0 +1,26 @@
+.blog-read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #466645;
+    color: white;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.blog-read-more:hover {
+    background-color: #355d38;
+    transform: scale(1.05);
+}
+
+.blog-read-more:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(70, 102, 69, 0.5);
+}
+
+.blog-read-more p {
+    margin: 0;
+}

@@ -1,0 +1,23 @@
+.contact-us-container {
+    background-color: #fff;
+    padding: 64px !important;
+    border-radius: 16px;
+}
+
+.contact-us-description {
+    font-size: 20px;
+    color: #13121a;
+    font-weight: 400;
+}
+
+@media (max-width: 768px) {
+    .contact-us-container {
+        padding: 32px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .contact-us-container {
+        padding: 16px !important;
+    }
+}

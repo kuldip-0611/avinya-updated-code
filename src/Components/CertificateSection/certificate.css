@@ -1,0 +1,16 @@
+.certification-heading {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif !important;
+  color: #13121a;
+}
+@media (max-width: 768px) {
+  .certification-heading {
+    font-size: 32px;
+  }
+}
+@media (max-width: 576px) {
+  .certification-heading {
+    font-size: 28px;
+  }
+}

@@ -1,0 +1,16 @@
+.table-head-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #272833;
+    width: 50%;
+    padding-left: 16px !important;
+}
+
+
+.table-data {
+    font-size: 16px;
+    font-weight: 500;
+    color: #13121a;
+    width: 50%;
+    padding-left: 16px !important;
+}

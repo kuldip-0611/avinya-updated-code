@@ -1,0 +1,54 @@
+{
+  "home": "HJEM",
+  "ourProcess": "VORES PROCESS",
+  "ourMaterial": "VORES MATERIALE",
+  "ourProduct": "VORES PRODUKT",
+  "ourImpact": "VORES PÅVIRKNING",
+  "aboutUs": "OM OS",
+  "faqs": "OFTE STILLEDE SPØRGSMÅL",
+  "contactUs": "KONTAKT OS",
+  "currency": {
+    "ind": "INR ₹",
+    "usd": "USD $",
+    "eur": "EUR €"
+  },
+  "language": {
+    "en": "EN",
+    "fr": "FR",
+    "de": "DE"
+  },
+  "progressMessage": "Vi omdanner hvede- og risstrå til førsteklasses, holdbart og 100 % miljøvenligt vegansk læder.",
+  "ourProductTitle": "Vores Produkt",
+  "products": [
+    { "title": "Prøvekort" },
+    { "title": "Materiale" },
+    { "title": "Produkter" }
+  ],
+  "whyChooseUs": "Hvorfor vælge os",
+  "whyChooseUsDesc": "Vælg os for innovativ, bæredygtig, dyrevelfærdsløs læder, der reducerer affald og støtter en grønnere fremtid.",
+  "ecoFriendly": "Miljøvenlig",
+  "ecoFriendlyDesc": "Holdbart, miljøvenligt læder lavet af genanvendt landbrugsaffald for bæredygtighed.",
+  "sustainable": "Bæredygtig",
+  "sustainableDesc": "Plantebaseret læder fra landbrugsaffald: holdbar, dyrevelfærdsløs, miljøvenlig alternativ.",
+  "crueltyFree": "Uden dyremishandling",
+  "crueltyFreeDesc": "Uden dyremishandling læder fra planter: ingen dyreskader, holdbar kvalitet.",
+  "certifications": "Vores Certificeringer",
+  "footer": {
+    "guilt_free_luxury": "Skyld - Fri luksus",
+    "our_material": "Vores Materiale",
+    "our_impact": "Vores Indflydelse",
+    "certifications": "Certificeringer",
+    "privacy_policy": "Privatliv & Politik",
+    "shop": "Butik",
+    "about_us": "Om Os",
+    "contact_us": "Kontakt Os",
+    "made_in_india": "LAVET I INDIEN MED KÆRLIGHED ❤️️"
+  },
+  "our_material": {
+    "title": "Vores Materiale",
+    "description": "Hos Avinya forvandler vi hvede- og risstrå til højtydende, bæredygtigt læder, der opfylder branchens behov og tacklede miljømæssige udfordringer.",
+    "purse_title": "Naturen presser grænser, og vi er glade for at tage denne udfordring op med vores materialer.",
+    "product_title": "Fremtiden for bæredygtige materialer",
+    "product_description": "Vi innoverer konstant for at forbedre kvaliteten og bæredygtigheden af vores materiale. Efterhånden som vi vokser, udforsker vi nye kilder til landbrugsaffald og forbedrer vores produktionsteknikker for at skabe et endnu mere miljøvenligt produkt. Vores ultimative mål er at revolutionere industrier ved at tilbyde bæredygtige, dyrevenlige materialer, der opfylder kravene fra nutidens forbrugere, samtidig med at vi beskytter miljøet."
+  }
+}

@@ -1,0 +1,44 @@
+.our-progress-container {
+  border-radius: 16px;
+  background-color: #3e614a;
+  margin-top: 80px;
+}
+
+.progress-heading {
+  background: #ffffff26 !important;
+}
+.our-progress-title {
+  font-family: "Playfair Display", serif !important;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+@media (max-width: 1200px) {
+  .our-progress-title {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 992px) {
+  .our-progress-title {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .our-progress-title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 576px) {
+  .our-progress-title {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 400px) {
+  .our-progress-title {
+    font-size: 20px;
+  }
+}

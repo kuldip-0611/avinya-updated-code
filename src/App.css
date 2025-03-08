@@ -1,0 +1,54 @@
+.App {
+  background-color: #eeeeee !important;
+}
+
+.avinya-information-container {
+  background-color: #fff;
+  padding: 0px 120px !important;
+  border-radius: 16px;
+}
+
+.heading-title {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Playfair Display", serif !important;
+}
+
+.heading-description {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+@media (max-width: 992px) {
+  .avinya-information-container {
+    padding: 0px 32px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .avinya-information-container {
+    padding: 0px 16px !important;
+  }
+
+  .heading-title {
+    font-size: 32px;
+  }
+
+  .heading-description {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 576px) {
+  .avinya-information-container {
+    padding: 0px 8px !important;
+  }
+
+  .heading-title {
+    font-size: 28px;
+  }
+
+  .heading-description {
+    font-size: 14px;
+  }
+}

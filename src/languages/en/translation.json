@@ -1,0 +1,55 @@
+{
+  "home": "HOME",
+  "ourProcess": "OUR PROCESS",
+  "ourMaterial": "OUR MATERIAL",
+  "ourProduct": "OUR PRODUCT",
+  "ourImpact": "OUR IMPACT",
+  "aboutUs": "ABOUT US",
+  "faqs": "FAQ'S",
+  "contactUs": "CONTACT US",
+  "policy":"POLICY",
+  "currency": {
+    "ind": "IND ₹",
+    "usd": "USD $",
+    "eur": "EUR €"
+  },
+  "language": {
+    "en": "EN",
+    "fr": "FR",
+    "de": "DE"
+  },
+   "progressMessage": "We turn wheat and rice straw into premium, durable, and 100% eco-friendly vegan leather.",
+   "ourProductTitle": "Our Product",
+  "products": [
+    { "title": "Swatch Card" },
+    { "title": "Material" },
+    { "title": "Products" }
+  ],
+  "whyChooseUs": "Why Choose Us",
+  "whyChooseUsDesc": "Choose us for innovative, sustainable, cruelty-free leather that reduces waste and supports a greener future.",
+  "ecoFriendly": "Eco-friendly",
+  "ecoFriendlyDesc": "Durable, eco-friendly leather made from recycled agricultural waste for sustainability.",
+  "sustainable": "Sustainable",
+  "sustainableDesc": "Plant-based leather from agricultural waste: durable, cruelty-free, eco-friendly alternative.",
+  "crueltyFree": "Cruelty Free",
+  "crueltyFreeDesc": "Cruelty-free leather from plants: no animal harm, durable quality.",
+  "certifications": "Our Certifications",
+  "footer": {
+    "guilt_free_luxury": "Guilt - Free luxury",
+    "our_material": "Our Material",
+    "our_impact": "Our Impact",
+    "certifications": "Certifications",
+    "privacy_policy": "Privacy & Policy",
+    "shop": "Shop",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "made_in_india": "MADE IN INDIA WITH LOVE ❤️️"
+  },
+   "our_material": {
+    "title": "Our Material",
+    "description": "At Avinya, we transform wheat and rice straw into high-performance, sustainable leather, meeting industry needs while tackling environmental challenges.",
+    "purse_title": "Nature pushes boundaries, and we're excited to take on that challenge with our materials.",
+    "product_title": "The Future of Sustainable Materials",
+    "product_description": "We are constantly innovating to enhance the quality and sustainability of our material. As we grow, we’re exploring new agricultural waste sources and improving our production techniques to create an even more eco-friendly product. Our ultimate goal is to revolutionize industries by offering sustainable, cruelty-free materials that meet the demands of today’s consumers while protecting the environment."
+  }
+}

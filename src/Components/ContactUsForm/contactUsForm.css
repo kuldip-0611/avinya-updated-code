@@ -1,0 +1,9 @@
+.submit-button {
+    background: linear-gradient(180deg, #466645 0%, #1C3628 157.73%) !important;
+}
+
+.submit-button-text {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
