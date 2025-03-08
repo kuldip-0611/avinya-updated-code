@@ -3,9 +3,7 @@ import { Container, Row, Col, Nav } from "react-bootstrap";
 import "./footer.css";
 import logo from "../../assets/images/new_white_logo.png";
 import Instagram from "../../assets/icons/Instagram";
-import Youtube from "../../assets/icons/Youtube";
 import LinkedIn from "../../assets/icons/LinkedIn";
-import Facebook from "../../assets/icons/Facebook";
 import Twitter from "../../assets/icons/Twitter";
 import Email from "../../assets/icons/Email";
 import Phone from "../../assets/icons/Phone";
@@ -105,12 +103,6 @@ const Footer = () => (
                 className="p-0"
               >
                 <Instagram />
-              </Nav.Link>
-              <Nav.Link href="#" className="p-0">
-                <Youtube />
-              </Nav.Link>
-              <Nav.Link href="#" className="p-0">
-                <Facebook />
               </Nav.Link>
               <Nav.Link href="https://x.com/WeAreAvinya?s=08" className="p-0">
                 <Twitter />
