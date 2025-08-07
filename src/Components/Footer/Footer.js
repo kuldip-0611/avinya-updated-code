@@ -9,7 +9,7 @@ import Email from "../../assets/icons/Email";
 import Phone from "../../assets/icons/Phone";
 
 const contactInfo = [
-  { icon: <Email />, text: "connect@avinya.com" },
+  { icon: <Email />, text: "contact@avinyaleather.com" },
   { icon: <Phone />, text: "+916351169077" },
 ];
 

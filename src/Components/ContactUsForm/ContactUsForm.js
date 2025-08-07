@@ -38,7 +38,7 @@ const ContactUsForm = () => {
     Message: ${values.message}
   `);
 
-        window.location.href = `mailto:contact@avinya.com?subject=${subject}&body=${body}`;
+        window.location.href = `mailto:connect@avinyaleather.com?subject=${subject}&body=${body}`;
       }}
     >
       {({ handleSubmit, handleChange, values, touched, errors }) => (

@@ -13,7 +13,7 @@ const PrivacyPolicyScreen = () => {
         "<p>Minimum Order Quantities (MOQs) Standard materials are available without an MOQ. Customization requires orders above 50 panels.</p>",
         "<p>Lead Time Orders are dispatched within 3–4 business days. Shipping typically takes 2–3 weeks in India and 4–6 weeks internationally.</p>",
         "<p>Product Variability There may be slight variations in color and material due to manual processes.</p>",
-        "<p>Terms of Payment Full payment must be confirmed before order release. Contact us at <a class='email-link' href='mailto:contact@avinya.com'>contact@avinya.com</a> for details.</p>",
+        "<p>Terms of Payment Full payment must be confirmed before order release. Contact us at <a class='email-link' href='mailto:connect@avinyaleather.com'>contact@avinya.com</a> for details.</p>",
       ],
     },
     {
